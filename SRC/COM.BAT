@@ -1,0 +1,2 @@
+javac -deprecation *.java
+@pause
